@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Destek olmayı unutmayalım.<br>💻Yazılım mühendisliği öğrencisiyim.<br>💻JAVA, PYTHON, C ,C++, HTML, CSS ,SWIFT Dillerini biliyorum.<br>💻ÖĞRENMEYE VE PAYLAŞMAYA AÇIĞIM.
+💻 Destek olmayı unutmayalım.<br>💻Yazılım mühendisliği öğrencisiyim.<br><br>💻ÖĞRENMEYE VE PAYLAŞMAYA AÇIĞIM.
 
 
 ## 🌐 Socials:
